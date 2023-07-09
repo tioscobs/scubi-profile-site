@@ -78,7 +78,6 @@ section {
     height: 400px;
     display: flex;
     justify-content: space-evenly;
-
 }
 
 .section-title{
@@ -89,7 +88,6 @@ section {
     text-align: center;
     align-items: center;
     display: flex;
-    
 }
 
 .white-section {
@@ -112,9 +110,10 @@ section {
 .content {
     width: 900px;
     display: flex;
-
+    
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .content img{
